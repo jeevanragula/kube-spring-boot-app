@@ -1,0 +1,2 @@
+FROM openjdk:java8
+
